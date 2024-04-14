@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saeed</h1>
-<h3 align="center">👋 Mohammad Saeed | 🎮 Game Dev | 💻 Web Wizard | 🚀 Tech Enthusiast | Let's code some magic!</h3>
+<h3 align="center">👋 Mohammad Saeed | 🎮 Game Dev | 💻 Web Wizard | Let's code some magic!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msaeedsaeedi&label=Profile%20views&color=0e75b6&style=flat" alt="msaeedsaeedi" /> </p>
 
-- 🔭 I’m currently working on **Programming Fundamentals**
+- 🔭 I’m currently working on **Message Weave**
 
 - 🌱 I’m currently learning **C++**
 
