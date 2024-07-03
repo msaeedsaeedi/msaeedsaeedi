@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Saeed</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&random=false&width=435&height=64&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Saeed;I%E2%80%99m+currently+working+on+%60H2DE%60" alt="Typing SVG" /></h1>
 <h3 align="center">👋 Mohammad Saeed | 🎮 Game Dev | 💻 Web Wizard | Let's code some magic!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msaeedsaeedi&label=Profile%20views&color=0e75b6&style=flat" alt="msaeedsaeedi" /> </p>
